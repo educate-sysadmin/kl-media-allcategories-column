@@ -1,4 +1,4 @@
-# kl-media-id-column
-Wordpress plugin to show media id in media listing
+# kl-media-allcategories-column
+Wordpress plugin to workaround column display issue on media listing for Media Library Categories
 
 
