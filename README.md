@@ -1,4 +1,6 @@
 # kl-media-allcategories-column
-Wordpress plugin to workaround column display issue on media listing for Media Library Categories
+Attempt at Wordpress plugin to workaround column display issue on media listing for Media Library Categories (on wordpress.com)
+
+Didn't work.
 
 
